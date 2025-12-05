@@ -1,4 +1,5 @@
-#Practica-3-INF-121
-#SUNNY MAYA MAMANI LUCERO
-#CI: 13183685
-#RU:1886013
+# Practica-1-INF-121
+# Sunny Maya Mamani Lucero
+# CI:13183685
+# RU:1886013
+
