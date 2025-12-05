@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Juan",
+        "carnet": "123123",
+        "salario": 1300
+    },
+    {
+        "nombre": "Maria",
+        "carnet": "23423",
+        "salario": 1760
+    },
+    {
+        "nombre": "Lucia",
+        "carnet": "4536",
+        "salario": 1800
+    },
+    {
+        "nombre": "Roy",
+        "carnet": "893409",
+        "salario": 1900
+    }
+]

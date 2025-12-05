@@ -1,0 +1,34 @@
+[
+    {
+        "material": "nogal",
+        "nroCuerdas": 10,
+        "Cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "palosanto",
+        "nroCuerdas": 10,
+        "Cuerdas": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true
+        ]
+    }
+]

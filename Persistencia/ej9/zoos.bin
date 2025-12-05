@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nombre": "Safari",
+        "nroAnimales": 1,
+        "animales": [
+            {
+                "especie": "Felino",
+                "nombre": "Tigre",
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Amazonas Grande",
+        "nroAnimales": 2,
+        "animales": [
+            {
+                "especie": "Reptil",
+                "nombre": "Caiman",
+                "cantidad": 4
+            },
+            {
+                "especie": "Ave",
+                "nombre": "Aguila",
+                "cantidad": 3
+            }
+        ]
+    }
+]

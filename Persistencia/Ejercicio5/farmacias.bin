@@ -1,0 +1,62 @@
+[
+    {
+        "nombreFarmacia": "Norte",
+        "sucursal": 3,
+        "direccion": "Av. Colon 789",
+        "nroMedicamentos": 3,
+        "medicamentos": [
+            {
+                "nombre": "Jarabe Infantil",
+                "codMedicamento": 301,
+                "tipo": "tos",
+                "precio": 7.0
+            },
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 101,
+                "tipo": "tos",
+                "precio": 10.5
+            },
+            {
+                "nombre": "Jarabe",
+                "codMedicamento": 102,
+                "tipo": "tos",
+                "precio": 8.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Central",
+        "sucursal": 1,
+        "direccion": "Av. Siempre Viva 123",
+        "nroMedicamentos": 1,
+        "medicamentos": [
+            {
+                "nombre": "Vitamina C",
+                "codMedicamento": 103,
+                "tipo": "resfrio",
+                "precio": 5.5
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Sur",
+        "sucursal": 2,
+        "direccion": "Calle B 456",
+        "nroMedicamentos": 2,
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 201,
+                "tipo": "resfrio",
+                "precio": 9.5
+            },
+            {
+                "nombre": "Paracetamol",
+                "codMedicamento": 202,
+                "tipo": "fiebre",
+                "precio": 4.0
+            }
+        ]
+    }
+]

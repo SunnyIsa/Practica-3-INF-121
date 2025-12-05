@@ -1,0 +1,32 @@
+[
+    {
+        "codCliente": 1,
+        "codLibro": 1,
+        "fechaPrestamo": "2024-01-01",
+        "cantidad": 2
+    },
+    {
+        "codCliente": 2,
+        "codLibro": 1,
+        "fechaPrestamo": "2024-01-02",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 2,
+        "codLibro": 2,
+        "fechaPrestamo": "2024-01-03",
+        "cantidad": 3
+    },
+    {
+        "codCliente": 3,
+        "codLibro": 2,
+        "fechaPrestamo": "2024-01-04",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 1,
+        "codLibro": 3,
+        "fechaPrestamo": "2024-01-05",
+        "cantidad": 1
+    }
+]

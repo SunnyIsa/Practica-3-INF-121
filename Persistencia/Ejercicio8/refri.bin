@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Yogurt",
+        "fechaVencimiento": "2024-05-20",
+        "cantidad": 4
+    },
+    {
+        "nombre": "Queso",
+        "fechaVencimiento": "2024-06-01",
+        "cantidad": 5
+    },
+    {
+        "nombre": "Mantequilla",
+        "fechaVencimiento": "2024-04-30",
+        "cantidad": 3
+    }
+]

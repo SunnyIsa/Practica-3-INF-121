@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Ana",
+        "apellidoPaterno": "Lopez",
+        "apellidoMaterno": "Guzman",
+        "ci": 111,
+        "edad": 4,
+        "peso": 15,
+        "talla": 95
+    },
+    {
+        "nombre": "Luis",
+        "apellidoPaterno": "Perez",
+        "apellidoMaterno": "Mamani",
+        "ci": 222,
+        "edad": 8,
+        "peso": 25,
+        "talla": 130
+    },
+    {
+        "nombre": "Maria",
+        "apellidoPaterno": "Quispe",
+        "apellidoMaterno": "Flores",
+        "ci": 333,
+        "edad": 6,
+        "peso": 18,
+        "talla": 120
+    },
+    {
+        "nombre": "Jose",
+        "apellidoPaterno": "Rojas",
+        "apellidoMaterno": "Vega",
+        "ci": 444,
+        "edad": 13,
+        "peso": 55,
+        "talla": 160
+    },
+    {
+        "nombre": "Lucia",
+        "apellidoPaterno": "Diaz",
+        "apellidoMaterno": "Lara",
+        "ci": 555,
+        "edad": 5,
+        "peso": 30,
+        "talla": 100
+    }
+]

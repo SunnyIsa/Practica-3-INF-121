@@ -1,0 +1,22 @@
+[
+    {
+        "codLibro": 1,
+        "titulo": "Algebra",
+        "precio": 50
+    },
+    {
+        "codLibro": 2,
+        "titulo": "Calculo",
+        "precio": 80
+    },
+    {
+        "codLibro": 3,
+        "titulo": "Fisica",
+        "precio": 40
+    },
+    {
+        "codLibro": 4,
+        "titulo": "Historia",
+        "precio": 30
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": 111,
+        "nombre": "galleta",
+        "precio": 3
+    },
+    {
+        "codigo": 112,
+        "nombre": "bebida",
+        "precio": 5
+    },
+    {
+        "codigo": 113,
+        "nombre": "dulce",
+        "precio": 0.5
+    },
+    {
+        "codigo": 114,
+        "nombre": "helado",
+        "precio": 3
+    }
+]

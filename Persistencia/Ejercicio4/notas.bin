@@ -1,0 +1,35 @@
+[
+    {
+        "materia": "Matematicas",
+        "notaFinal": 89,
+        "estudiante": {
+            "ru": "1123",
+            "nombre": "Juan",
+            "paterno": "Perez",
+            "materno": "Martinez",
+            "edad": 12
+        }
+    },
+    {
+        "materia": "Lenguaje",
+        "notaFinal": 98,
+        "estudiante": {
+            "ru": "1124",
+            "nombre": "Lucia",
+            "paterno": "Torrez",
+            "materno": "Cruz",
+            "edad": 15
+        }
+    },
+    {
+        "materia": "Religion",
+        "notaFinal": 98,
+        "estudiante": {
+            "ru": "1126",
+            "nombre": "Juan",
+            "paterno": "Campos",
+            "materno": "Farias",
+            "edad": 12
+        }
+    }
+]
